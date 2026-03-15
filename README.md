@@ -95,7 +95,7 @@ Deepfake_Audio_Detection_CNN.ipynb
 
 ## Model Training
 
-![Training Accuracy](images/performance.png)
+![Training Accuracy](images/Performance.png)
 
 ---
 
@@ -103,7 +103,7 @@ Deepfake_Audio_Detection_CNN.ipynb
 
 Mel Spectrogram visualization used as input for the CNN model.
 
-![Spectrogram](images/Mel_spectrogram.png)
+![Spectrogram](images/Mel_spectogram.png)
 
 
 ---
